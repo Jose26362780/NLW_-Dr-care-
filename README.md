@@ -7,7 +7,7 @@
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
-👉🏼[Clique aqui para accessar](https://jose26362780.github.io/dr.care-/)
+👉🏼[Clique aqui para accessar](https://nlw-together-dr-care.netlify.app/)
 
 
 ##  Tecnologias usadas no projeto
